@@ -1,0 +1,14 @@
+c:\NickProjects\Project_22_02\bin\Debug\net9.0\Project_22_02.exe
+c:\NickProjects\Project_22_02\bin\Debug\net9.0\Project_22_02.deps.json
+c:\NickProjects\Project_22_02\bin\Debug\net9.0\Project_22_02.runtimeconfig.json
+c:\NickProjects\Project_22_02\bin\Debug\net9.0\Project_22_02.dll
+c:\NickProjects\Project_22_02\bin\Debug\net9.0\Project_22_02.pdb
+c:\NickProjects\Project_22_02\obj\Debug\net9.0\Project_22_02.GeneratedMSBuildEditorConfig.editorconfig
+c:\NickProjects\Project_22_02\obj\Debug\net9.0\Project_22_02.AssemblyInfoInputs.cache
+c:\NickProjects\Project_22_02\obj\Debug\net9.0\Project_22_02.AssemblyInfo.cs
+c:\NickProjects\Project_22_02\obj\Debug\net9.0\Project_22_02.csproj.CoreCompileInputs.cache
+c:\NickProjects\Project_22_02\obj\Debug\net9.0\Project_22_02.dll
+c:\NickProjects\Project_22_02\obj\Debug\net9.0\refint\Project_22_02.dll
+c:\NickProjects\Project_22_02\obj\Debug\net9.0\Project_22_02.pdb
+c:\NickProjects\Project_22_02\obj\Debug\net9.0\Project_22_02.genruntimeconfig.cache
+c:\NickProjects\Project_22_02\obj\Debug\net9.0\ref\Project_22_02.dll
